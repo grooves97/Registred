@@ -1,0 +1,17 @@
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\User_Registration.exe.config
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\User_Registration.exe
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\User_Registration.pdb
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Twilio.dll
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\bin\Debug\Twilio.xml
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\obj\Debug\User_Registration.csprojAssemblyReference.cache
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\obj\Debug\User_Registration.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\obj\Debug\User_Registration.csproj.CopyComplete
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\obj\Debug\User_Registration.exe
+C:\Users\ww\source\repos_c#\User_Registration\User_Registration\obj\Debug\User_Registration.pdb
